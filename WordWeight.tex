@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry} %1 in margins
+\usepackage{graphicx} %For including graphics
+\usepackage[labelfont=bf]{caption} %Make float labels bold
+\usepackage{subcaption}
+\usepackage{amsmath}    
+\usepackage{listings}% http://ctan.org/pkg/listings
+\lstset{
+	basicstyle=\ttfamily,
+	mathescape
+}
+\usepackage{hyperref}
+\renewcommand{\floatpagefraction}{0.95}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\textfraction}{0.05}
+
+% Define a ``Program'' float for code
+\usepackage{verbatim} %Allow verbatim input for code
+\usepackage{float} %Defining the Program environment
+\floatstyle{boxed}
+\newfloat{program}{htbp}{pgm}
+\floatname{program}{Program}
+
+\begin{document}
+	
+	
+	
+	
+	
+\begin{equation}
+	 \text{LinearSize} =  f_{min} + (\frac{ ( \text{WordFrequency} - w_{min} ) } { (w_{max} - w_{min } ) } * (f_{max} - f_{min} ) 
+ \end{equation}
+
+
+\begin{equation}
+	\text{Weight} =  (\frac{ ( \text{LinearSize} ) } { 8 }) ^3
+\end{equation}
+
+
+\end{document}

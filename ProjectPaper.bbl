@@ -1,0 +1,54 @@
+\begin{thebibliography}{1}
+
+\bibitem{Wikipedia:2016}
+Wikipedia The~free encyclopedia.
+\newblock {\em Twitter}, 2016.
+\newblock \url{https://en.wikipedia.org/wiki/Twitter#/}.
+
+\bibitem{Sayce:2010}
+David Sayce.
+\newblock {\em 10 Billions Tweets? number of tweets per day?}, 2010 (Updated
+  March 2016).
+\newblock \url{http://www.dsayce.com/social-media/10-billions-tweets/}.
+
+\bibitem{IsaacEmber:2016}
+Mike Isaac and Sydney Ember.
+\newblock {\em For Election Day Influence, Twitter Ruled Social Media}, 2016.
+\newblock
+  \url{http://www.nytimes.com/2016/11/09/technology/for-election-day-chatter-twitter-ruled-social-media.html?_r=0}.
+
+\bibitem{UserTimeline:2016}
+GET statuses/user~timeline (Twitter Official~Website).
+\newblock {\em Twitter Developer Documentation}, 2016.
+\newblock
+  \url{https://dev.twitter.com/rest/reference/get/statuses/user_timeline/}.
+
+\bibitem{Xu:2014}
+Weiai Xu.
+\newblock {\em Mining Twitter User Profile on Python}, 2014.
+\newblock \url{http://social-metrics.org/slideshare-tutorial-1/}.
+
+\bibitem{Forstyh:2014}
+Daniel Forsyth.
+\newblock {\em Analyzing a NHL Playoff Game With Twitter}, 2014.
+\newblock
+  \url{http://www.danielforsyth.me/analyzing-a-nhl-playoff-game-with-twitter/}.
+
+\bibitem{Saxton:2014}
+Gregory Saxton.
+\newblock {\em Using Python to Grab Twitter User Data}, 2014.
+\newblock \url{http://social-metrics.org/twitter-user-data/}.
+
+\bibitem{Bonzanini:2015}
+Marco Bonzanini.
+\newblock {\em Mining Twitter Data with Python (Part 1: Collecting data)},
+  2015.
+\newblock
+  \url{https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/}.
+
+\bibitem{Whitfield:2016}
+Joe Whitfield-Seed.
+\newblock {\em Animated d3 word cloud}, 2016.
+\newblock \url{http://bl.ocks.org/jwhitfieldseed/9697914/}.
+
+\end{thebibliography}
